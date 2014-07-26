@@ -20,18 +20,26 @@
 .navbar-sherlock .navbar-brand {
     /*color:  #b3b3b3;*/
 }
-
 /** brand颜色和背景颜色 获得焦点 **/
 .navbar-sherlock .navbar-brand:hover,
 .navbar-sherlock .navbar-brand:focus {
     background-color: transparent;
     color: inherit;
 }
+/** 设置brand下logo部分 **/
+.logo-sherlock {
+    position: relative;
+    bottom: 8px;
+    margin-right: 30px;
+}
 
-/*设置navbar-text的文本颜色,下节讲*/
+
+
+/*设置navbar-text的文本颜色*/
 .navbar-sherlock .navbar-text {
     color: #777;
 }
+
 
 /*设置菜单项链接*/
 .navbar-sherlock .navbar-nav > li > a {
@@ -71,6 +79,7 @@
     left: -17%;
     position: relative;
 }
+
 /* disabled 下的菜单项样式 */
 .navbar-sherlock .navbar-nav > .disabled > a,
 .navbar-sherlock .navbar-nav > .disabled > a:hover,
@@ -79,10 +88,26 @@
     /*background-color: transparent;*/
 }
 
-/** logo部分 **/
-.logo-sherlock {
-    position: relative;
-    bottom: 8px;
-    margin-right: 30px;
+
+/* 下拉菜单打开时,其里面的当前活动的子菜单项样式 */
+.navbar-sherlock .navbar-nav .open .dropdown-menu > .active > a,
+.navbar-sherlock .navbar-nav .open .dropdown-menu > .active > a:hover,
+.navbar-sherlock .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #555;
+    background-color: #e7e7e7;
 }
 
+/*下拉菜单打开时,里面的当前已禁用的子菜单项样式 **/
+.navbar-sherlock .navbar-nav .open .dropdown-menu > .disabled > a,
+.navbar-sherlock .navbar-nav .open .dropdown-menu > .disabled > a:hover,
+.navbar-sherlock .navbar-nav .open .dropdown-menu > .disabled > a:focus {
+    color: #ccc;
+background-color: transparent;
+}
+
+.navbar-sherlock .navbar-link {
+    color: #777; /*内部链接的文本颜色*/
+}
+.navbar-sherlock .navbar-link:hover {
+    color: #333; /*内部链接在鼠标移动时的文本颜色*/
+}

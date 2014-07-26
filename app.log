@@ -1340,3 +1340,139 @@
 [2014-07-26 18:31:13.440] [WARN] normal - GET /source/external/seajs_config.js
 [2014-07-26 18:31:13.442] [WARN] normal - GET /images/logo.png
 [2014-07-26 18:31:13.444] [WARN] normal - GET /source/external/bootstrap-3.2.0/dist/js/bootstrap.min.js
+[2014-07-26 19:10:08.052] [WARN] console - http参数显示功能开启...
+[2014-07-26 19:10:08.052] [INFO] console - param  :  {}
+[2014-07-26 19:10:08.052] [INFO] console - get :  {}
+[2014-07-26 19:10:08.052] [INFO] console - post :  {}
+[2014-07-26 19:10:08.053] [INFO] indexRouter - 进入首页...
+[2014-07-26 19:10:08.056] [WARN] normal - GET /home
+[2014-07-26 19:10:08.076] [WARN] console - http参数显示功能开启...
+[2014-07-26 19:10:08.077] [INFO] console - param  :  {}
+[2014-07-26 19:10:08.077] [INFO] console - get :  {}
+[2014-07-26 19:10:08.077] [INFO] console - post :  {}
+[2014-07-26 19:10:08.077] [WARN] console - http参数显示功能开启...
+[2014-07-26 19:10:08.077] [INFO] console - param  :  {}
+[2014-07-26 19:10:08.077] [INFO] console - get :  {}
+[2014-07-26 19:10:08.077] [INFO] console - post :  {}
+[2014-07-26 19:10:08.078] [WARN] normal - GET /source/external/bootstrap-3.2.0/dist/css/bootstrap.min.css
+[2014-07-26 19:10:08.079] [ERROR] normal - GET /source/external/bootstrap-3.2.0/dist/css/myskin.css
+[2014-07-26 19:10:08.080] [ERROR] normal - GET /source/external/sea-modules/seajs/2.3.0/dist/sea-debug.js
+[2014-07-26 19:10:08.080] [WARN] normal - GET /source/external/seajs_config.js
+[2014-07-26 19:10:08.081] [WARN] normal - GET /images/logo.png
+[2014-07-26 19:10:08.081] [WARN] normal - GET /source/external/bootstrap-3.2.0/dist/js/bootstrap.min.js
+[2014-07-26 19:10:47.915] [WARN] console - http参数显示功能开启...
+[2014-07-26 19:10:47.915] [INFO] console - param  :  {}
+[2014-07-26 19:10:47.915] [INFO] console - get :  {}
+[2014-07-26 19:10:47.916] [INFO] console - post :  {}
+[2014-07-26 19:10:47.916] [INFO] indexRouter - 进入首页...
+[2014-07-26 19:10:47.944] [WARN] normal - GET /home
+[2014-07-26 19:10:47.979] [WARN] console - http参数显示功能开启...
+[2014-07-26 19:10:47.979] [INFO] console - param  :  {}
+[2014-07-26 19:10:47.979] [INFO] console - get :  {}
+[2014-07-26 19:10:47.980] [INFO] console - post :  {}
+[2014-07-26 19:10:47.981] [WARN] normal - GET /source/external/bootstrap-3.2.0/dist/css/bootstrap.min.css
+[2014-07-26 19:10:47.982] [ERROR] normal - GET /source/external/bootstrap-3.2.0/dist/css/myskin.css
+[2014-07-26 19:10:47.990] [WARN] console - http参数显示功能开启...
+[2014-07-26 19:10:47.991] [INFO] console - param  :  {}
+[2014-07-26 19:10:47.991] [INFO] console - get :  {}
+[2014-07-26 19:10:47.991] [INFO] console - post :  {}
+[2014-07-26 19:10:47.992] [ERROR] normal - GET /source/external/sea-modules/seajs/2.3.0/dist/sea-debug.js
+[2014-07-26 19:10:47.994] [WARN] normal - GET /source/external/seajs_config.js
+[2014-07-26 19:10:47.995] [WARN] normal - GET /images/logo.png
+[2014-07-26 19:10:47.996] [WARN] normal - GET /source/external/bootstrap-3.2.0/dist/js/bootstrap.min.js
+[2014-07-26 19:11:29.046] [WARN] console - http参数显示功能开启...
+[2014-07-26 19:11:29.046] [INFO] console - param  :  {}
+[2014-07-26 19:11:29.046] [INFO] console - get :  {}
+[2014-07-26 19:11:29.046] [INFO] console - post :  {}
+[2014-07-26 19:11:29.046] [INFO] indexRouter - 进入首页...
+[2014-07-26 19:11:29.049] [INFO] normal - GET /home
+[2014-07-26 19:11:29.065] [WARN] normal - GET /source/external/bootstrap-3.2.0/dist/css/bootstrap.min.css
+[2014-07-26 19:11:29.070] [WARN] console - http参数显示功能开启...
+[2014-07-26 19:11:29.070] [INFO] console - param  :  {}
+[2014-07-26 19:11:29.070] [INFO] console - get :  {}
+[2014-07-26 19:11:29.070] [INFO] console - post :  {}
+[2014-07-26 19:11:29.071] [ERROR] normal - GET /source/external/sea-modules/seajs/2.3.0/dist/sea-debug.js
+[2014-07-26 19:11:29.072] [WARN] normal - GET /source/external/seajs_config.js
+[2014-07-26 19:11:29.073] [WARN] normal - GET /images/logo.png
+[2014-07-26 19:11:29.073] [WARN] normal - GET /source/external/bootstrap-3.2.0/dist/js/bootstrap.min.js
+[2014-07-26 19:11:29.084] [WARN] normal - GET /source/custom/myskin/myskin.css
+[2014-07-26 20:20:01.375] [WARN] console - http参数显示功能开启...
+[2014-07-26 20:20:01.376] [INFO] console - param  :  {}
+[2014-07-26 20:20:01.376] [INFO] console - get :  {}
+[2014-07-26 20:20:01.377] [INFO] console - post :  {}
+[2014-07-26 20:20:01.377] [INFO] indexRouter - 进入首页...
+[2014-07-26 20:20:01.389] [INFO] normal - GET /home
+[2014-07-26 20:20:01.447] [WARN] normal - GET /source/external/bootstrap-3.2.0/dist/css/bootstrap.min.css
+[2014-07-26 20:20:01.466] [WARN] normal - GET /source/custom/myskin/myskin.css
+[2014-07-26 20:20:01.467] [WARN] console - http参数显示功能开启...
+[2014-07-26 20:20:01.468] [INFO] console - param  :  {}
+[2014-07-26 20:20:01.468] [INFO] console - get :  {}
+[2014-07-26 20:20:01.468] [INFO] console - post :  {}
+[2014-07-26 20:20:01.471] [ERROR] normal - GET /source/external/sea-modules/seajs/2.3.0/dist/sea-debug.js
+[2014-07-26 20:20:01.476] [WARN] normal - GET /source/external/seajs_config.js
+[2014-07-26 20:20:01.506] [WARN] normal - GET /images/logo.png
+[2014-07-26 20:20:01.509] [WARN] normal - GET /source/external/bootstrap-3.2.0/dist/js/bootstrap.min.js
+[2014-07-26 20:20:45.706] [WARN] console - http参数显示功能开启...
+[2014-07-26 20:20:45.706] [INFO] console - param  :  {}
+[2014-07-26 20:20:45.707] [INFO] console - get :  {}
+[2014-07-26 20:20:45.707] [INFO] console - post :  {}
+[2014-07-26 20:20:45.707] [INFO] indexRouter - 进入首页...
+[2014-07-26 20:20:45.711] [WARN] normal - GET /home
+[2014-07-26 20:20:45.765] [WARN] console - http参数显示功能开启...
+[2014-07-26 20:20:45.766] [INFO] console - param  :  {}
+[2014-07-26 20:20:45.766] [INFO] console - get :  {}
+[2014-07-26 20:20:45.766] [INFO] console - post :  {}
+[2014-07-26 20:20:45.767] [WARN] normal - GET /source/external/bootstrap-3.2.0/dist/css/bootstrap.min.css
+[2014-07-26 20:20:45.768] [WARN] normal - GET /source/custom/myskin/myskin.css
+[2014-07-26 20:20:45.780] [ERROR] normal - GET /source/external/sea-modules/seajs/2.3.0/dist/sea-debug.js
+[2014-07-26 20:20:45.781] [WARN] normal - GET /source/external/seajs_config.js
+[2014-07-26 20:20:45.785] [WARN] normal - GET /images/logo.png
+[2014-07-26 20:20:45.792] [WARN] normal - GET /source/external/bootstrap-3.2.0/dist/js/bootstrap.min.js
+[2014-07-26 20:21:00.027] [WARN] console - http参数显示功能开启...
+[2014-07-26 20:21:00.027] [INFO] console - param  :  {}
+[2014-07-26 20:21:00.028] [INFO] console - get :  {}
+[2014-07-26 20:21:00.028] [INFO] console - post :  {}
+[2014-07-26 20:21:00.028] [INFO] indexRouter - 进入首页...
+[2014-07-26 20:21:00.033] [INFO] normal - GET /home
+[2014-07-26 20:21:00.059] [WARN] console - http参数显示功能开启...
+[2014-07-26 20:21:00.059] [INFO] console - param  :  {}
+[2014-07-26 20:21:00.059] [INFO] console - get :  {}
+[2014-07-26 20:21:00.059] [INFO] console - post :  {}
+[2014-07-26 20:21:00.061] [WARN] normal - GET /source/external/bootstrap-3.2.0/dist/css/bootstrap.min.css
+[2014-07-26 20:21:00.061] [WARN] normal - GET /source/custom/myskin/myskin.css
+[2014-07-26 20:21:00.062] [ERROR] normal - GET /source/external/sea-modules/seajs/2.3.0/dist/sea-debug.js
+[2014-07-26 20:21:00.063] [WARN] normal - GET /source/external/seajs_config.js
+[2014-07-26 20:21:00.064] [WARN] normal - GET /images/logo.png
+[2014-07-26 20:21:00.085] [WARN] normal - GET /source/external/bootstrap-3.2.0/dist/js/bootstrap.min.js
+[2014-07-26 20:22:03.005] [WARN] console - http参数显示功能开启...
+[2014-07-26 20:22:03.005] [INFO] console - param  :  {}
+[2014-07-26 20:22:03.005] [INFO] console - get :  {}
+[2014-07-26 20:22:03.005] [INFO] console - post :  {}
+[2014-07-26 20:22:03.006] [INFO] indexRouter - 进入首页...
+[2014-07-26 20:22:03.011] [INFO] normal - GET /home
+[2014-07-26 20:22:03.032] [WARN] console - http参数显示功能开启...
+[2014-07-26 20:22:03.032] [INFO] console - param  :  {}
+[2014-07-26 20:22:03.033] [INFO] console - get :  {}
+[2014-07-26 20:22:03.033] [INFO] console - post :  {}
+[2014-07-26 20:22:03.034] [WARN] normal - GET /source/external/bootstrap-3.2.0/dist/css/bootstrap.min.css
+[2014-07-26 20:22:03.035] [WARN] normal - GET /source/custom/myskin/myskin.css
+[2014-07-26 20:22:03.035] [ERROR] normal - GET /source/external/sea-modules/seajs/2.3.0/dist/sea-debug.js
+[2014-07-26 20:22:03.036] [WARN] normal - GET /source/external/seajs_config.js
+[2014-07-26 20:22:03.037] [WARN] normal - GET /images/logo.png
+[2014-07-26 20:22:03.037] [WARN] normal - GET /source/external/bootstrap-3.2.0/dist/js/bootstrap.min.js
+[2014-07-26 20:22:04.551] [WARN] console - http参数显示功能开启...
+[2014-07-26 20:22:04.551] [INFO] console - param  :  {}
+[2014-07-26 20:22:04.551] [INFO] console - get :  {}
+[2014-07-26 20:22:04.552] [INFO] console - post :  {}
+[2014-07-26 20:22:04.552] [INFO] indexRouter - 进入首页...
+[2014-07-26 20:22:04.556] [INFO] normal - GET /home?
+[2014-07-26 20:22:04.578] [WARN] normal - GET /source/external/bootstrap-3.2.0/dist/css/bootstrap.min.css
+[2014-07-26 20:22:04.579] [WARN] console - http参数显示功能开启...
+[2014-07-26 20:22:04.579] [INFO] console - param  :  {}
+[2014-07-26 20:22:04.579] [INFO] console - get :  {}
+[2014-07-26 20:22:04.579] [INFO] console - post :  {}
+[2014-07-26 20:22:04.580] [WARN] normal - GET /source/custom/myskin/myskin.css
+[2014-07-26 20:22:04.581] [ERROR] normal - GET /source/external/sea-modules/seajs/2.3.0/dist/sea-debug.js
+[2014-07-26 20:22:04.581] [WARN] normal - GET /source/external/seajs_config.js
+[2014-07-26 20:22:04.582] [WARN] normal - GET /images/logo.png
+[2014-07-26 20:22:04.582] [WARN] normal - GET /source/external/bootstrap-3.2.0/dist/js/bootstrap.min.js
