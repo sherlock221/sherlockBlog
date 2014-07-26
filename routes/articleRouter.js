@@ -10,7 +10,7 @@ var Result = require("./result/result");
 
 
 //文章页面
-exports.article = function(req,res){
+exports.articlePage = function(req,res){
     log.info("进入文章页面...");
     res.render("article",{});
 };

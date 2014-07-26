@@ -1,0 +1,96 @@
+/*!
+ * sherlock 自定义皮肤
+ * Copyright 2011-2014 Twitter, Inc.
+ * 完全按照bootstrap AO设计思想 来写皮肤
+ */
+
+body {
+    /** 全站字体颜色 **/
+    color: #999999;
+    /** 全站背景颜色 **/
+    background-color: #e8e8e8;
+}
+
+/** 导航条 **/
+.navbar-sherlock {
+    /** 设置背景色 **/
+    background-color: #FFFFFF;
+    /** 边框颜色 **/
+    border: 0 none;
+    /**导航条高度 **/
+    min-height: 46px;
+    height: 46px;
+}
+
+/**  brand颜色 **/
+.navbar-sherlock .navbar-brand {
+    /*color:  #b3b3b3;*/
+}
+
+/** brand颜色和背景颜色 获得焦点 **/
+.navbar-sherlock .navbar-brand:hover,
+.navbar-sherlock .navbar-brand:focus {
+    background-color: transparent;
+    color: inherit;
+}
+
+/*设置navbar-text的文本颜色,下节讲*/
+.navbar-sherlock .navbar-text {
+    color: #777;
+}
+
+/*设置菜单项链接*/
+.navbar-sherlock .navbar-nav > li > a {
+    color: inherit;
+    /**　导航条高度变化需要　改变padding **/
+    padding-top: 13px;
+    padding-bottom: 13px;
+
+    /** 字体大小 **/
+    font-size: 16px;
+    /** 左右间距 **/
+    padding-left: 40px;
+    padding-right: 40px;
+}
+/*设置菜单项链接 (获得焦点) */
+.navbar-sherlock .navbar-nav > li > a:hover,
+.navbar-sherlock .navbar-nav > li > a:focus {
+    color: inherit;
+    background-color: transparent;
+}
+
+
+/* active 下的菜单项样式 */
+.navbar-sherlock .navbar-nav > .active > a,
+.navbar-sherlock .navbar-nav > .active > a:hover,
+.navbar-sherlock .navbar-nav > .active > a:focus {
+    color: #009ddc;
+    /*background-color: inherit;*/
+}
+/** active 样式下滑线 **/
+.navbar-sherlock  li.active  > a:after{
+    border-top: 1px solid #009ddc;
+    content: '';
+    display: block;
+    top: 5px;
+    width: 130%;
+    left: -17%;
+    position: relative;
+}
+/* disabled 下的菜单项样式 */
+.navbar-sherlock .navbar-nav > .disabled > a,
+.navbar-sherlock .navbar-nav > .disabled > a:hover,
+.navbar-sherlock .navbar-nav > .disabled > a:focus {
+    color: #ccc;
+    /*background-color: transparent;*/
+}
+
+
+
+/** logo部分 **/
+.logo-sherlock {
+    position: relative;
+    bottom: 8px;
+    margin-right: 30px;
+}
+

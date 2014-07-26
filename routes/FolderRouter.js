@@ -10,7 +10,7 @@ var Result = require("./result/result");
 
 
 //文件夹页面
-exports.folder = function(req,res){
+exports.folderPage = function(req,res){
     log.info("进入文件夹页面...");
     res.render("folder",{});
 };
