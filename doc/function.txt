@@ -1,0 +1,104 @@
+##实现功能列表
+
+@文章
+
+显示最新(近期)文章 by 创建时间
+findLatestArticle(crtTime);
+
+显示最热文章 by  热度(查看数+回复数＋赞数)
+findHotArticle(); sort : viewCount,commentCount,favCount
+
+@显示标签下的文章
+findArticleByTag();
+
+@显示文章标签集合
+findArticleTags();  嗄
+
+@显示单个文章   by  文章id
+findArticleById(id);
+
+@显示标签云  by 文章数量进行展示 sort 文章数量
+findTagClouds();
+
+@文章归档 时间归档    by  (年,月组合)
+findTimeFile();
+
+#################
+
+
+@文件夹
+
+@显示文件夹树  by 文章数量 + 创建时间
+findFolderTree(userId);
+
+@显示一个文件夹 by 文件夹id
+findFolderById(id);
+
+@显示文件夹下文章列表
+findArticleByFolderId();
+
+
+
+
+
+//权限
+
+//登录
+login
+//注册
+register
+//查询用户角色
+findUserRoles
+//添加角色
+//删除角色
+//修改角色
+
+
+
+
+//反馈
+
+//添加一条反馈   联系方式(邮箱 qq msn ..)   反馈内容(N个字)
+addFeedBack();
+
+
+//实验室 Laboratory (一个 web实验室)
+//参考360 html5实验室
+//chrome 实验室
+http://html5labs.interopbridges.com/prototypes/cu-rtc-web/cu-rtc-web/info
+
+//显示实验室分组
+findLabTypes();
+
+//显示分组下的实验
+getLabByType();
+
+//显示一个实验页面
+getLab(id);
+
+//显示最新的实验
+findLatesLab();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
