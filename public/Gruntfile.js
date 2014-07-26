@@ -1,35 +1,34 @@
 module.exports = function(grunt) {
 
     //读取package.json
-    var pkg = grunt.file.readJSON("package.json");
+   // var pkg = grunt.file.readJSON("package.json");
 
 
     //初始化Grunt
     grunt.initConfig({
 
-        pkg :pkg,
+        pkg :"",
 
         /** 合并 **/
         concat  : {
             /**
              * 测试合并js
              */
-            commonCss : {
-                src : ['public/src/css/common/*.css'],
-                dest : 'public/bin/css/common/tag.css'
+            myskin : {
+                src : ['source/custom/myskin/src/*.css'],
+                dest : 'source/custom/myskin/myskin.css'
             }
         },
 
         /**  监听文件夹并且执行任务 **/
         watch : {
-            commonCss : {
-                files : ['public/src/css/common/*.css'],
-                tasks : ["concat:commonCss","cssmin:commonCss"],
+            myskin : {
+                files : ['source/custom/myskin/src/*.css'],
+                tasks : ["concat:myskin"],
                 options : {
                     //默认 35729端口
                     livereload : true
                 }
-
             }
         },
         /** 压缩j **/
