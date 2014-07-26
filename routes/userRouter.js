@@ -4,13 +4,13 @@ var userError = require("./../exceptions/userError");
 var log = require("./../log").logger("userRoute");
 
 //初始化UserDao
-var userService = new UserService();
+//var userService = new UserService();
 
 
 //进入登录页面
-var loginPage = function (req, res, next) {
+var loginPage = function (req, res) {
     log.info("进入登录页面...");
-    res.render("admin/login", {error:"wu"});
+    res.render("sign/login");
 };
 
 //注册页面

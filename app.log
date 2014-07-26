@@ -1,0 +1,419 @@
+[2014-07-26 14:55:57.961] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-07-26 14:55:57.972] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-07-26 14:56:02.138] [INFO] console - sherlock blog 启动 端口:4000
+[2014-07-26 14:56:59.328] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-07-26 14:56:59.334] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-07-26 14:57:02.593] [INFO] console - sherlock blog 启动 端口:4000
+[2014-07-26 14:57:15.672] [WARN] console - http参数显示功能开启...
+[2014-07-26 14:57:15.672] [INFO] console - param  :  {}
+[2014-07-26 14:57:15.675] [INFO] console - get :  {}
+[2014-07-26 14:57:15.675] [INFO] console - post :  {}
+[2014-07-26 14:57:15.676] [INFO] userRoute - 进入登录页面...
+[2014-07-26 14:57:15.680] [INFO] console - 系统捕获异常...
+[2014-07-26 14:57:15.687] [ERROR] console - Error: ENOENT, no such file or directory 'C:\work\sherlockBlog\views\sign\common\meta.html'
+    at Object.fs.openSync (fs.js:432:18)
+    at fs.readFileSync (fs.js:289:15)
+    at Object.exports.parse (C:\work\node_modules\ejs\lib\ejs.js:159:19)
+    at exports.compile (C:\work\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+    at Object.loginPage [as handle] (C:\work\sherlockBlog\routes\userRouter.js:13:9)
+[2014-07-26 14:57:15.704] [INFO] normal - GET /login
+[2014-07-26 14:57:15.918] [INFO] normal - GET /favicon.ico
+[2014-07-26 14:58:02.493] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-07-26 14:58:02.503] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-07-26 14:58:05.961] [INFO] console - sherlock blog 启动 端口:4000
+[2014-07-26 14:58:09.909] [WARN] console - http参数显示功能开启...
+[2014-07-26 14:58:09.909] [INFO] console - param  :  {}
+[2014-07-26 14:58:09.911] [INFO] console - get :  {}
+[2014-07-26 14:58:09.912] [INFO] console - post :  {}
+[2014-07-26 14:58:09.912] [INFO] userRoute - 进入登录页面...
+[2014-07-26 14:58:09.918] [INFO] console - 系统捕获异常...
+[2014-07-26 14:58:09.924] [ERROR] console - Error: ENOENT, no such file or directory 'C:\work\sherlockBlog\views\sign\common\header.html'
+    at Object.fs.openSync (fs.js:432:18)
+    at fs.readFileSync (fs.js:289:15)
+    at Object.exports.parse (C:\work\node_modules\ejs\lib\ejs.js:159:19)
+    at exports.compile (C:\work\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+    at Object.loginPage [as handle] (C:\work\sherlockBlog\routes\userRouter.js:13:9)
+[2014-07-26 14:58:09.941] [INFO] normal - GET /login
+[2014-07-26 14:58:37.295] [WARN] console - http参数显示功能开启...
+[2014-07-26 14:58:37.295] [INFO] console - param  :  {}
+[2014-07-26 14:58:37.296] [INFO] console - get :  {}
+[2014-07-26 14:58:37.296] [INFO] console - post :  {}
+[2014-07-26 14:58:37.296] [INFO] userRoute - 进入登录页面...
+[2014-07-26 14:58:37.299] [INFO] console - 系统捕获异常...
+[2014-07-26 14:58:37.300] [ERROR] console - Error: ENOENT, no such file or directory 'C:\work\sherlockBlog\views\sign\common\header.html'
+    at Object.fs.openSync (fs.js:432:18)
+    at fs.readFileSync (fs.js:289:15)
+    at Object.exports.parse (C:\work\node_modules\ejs\lib\ejs.js:159:19)
+    at exports.compile (C:\work\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+    at Object.loginPage [as handle] (C:\work\sherlockBlog\routes\userRouter.js:13:9)
+[2014-07-26 14:58:37.304] [WARN] normal - GET /login
+[2014-07-26 14:58:55.079] [WARN] console - http参数显示功能开启...
+[2014-07-26 14:58:55.079] [INFO] console - param  :  {}
+[2014-07-26 14:58:55.080] [INFO] console - get :  {}
+[2014-07-26 14:58:55.080] [INFO] console - post :  {}
+[2014-07-26 14:58:55.081] [INFO] userRoute - 进入登录页面...
+[2014-07-26 14:58:55.088] [INFO] console - 系统捕获异常...
+[2014-07-26 14:58:55.091] [ERROR] console - Error: ENOENT, no such file or directory 'C:\work\sherlockBlog\views\sign\common\header.html'
+    at Object.fs.openSync (fs.js:432:18)
+    at fs.readFileSync (fs.js:289:15)
+    at Object.exports.parse (C:\work\node_modules\ejs\lib\ejs.js:159:19)
+    at exports.compile (C:\work\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+    at Object.loginPage [as handle] (C:\work\sherlockBlog\routes\userRouter.js:13:9)
+[2014-07-26 14:58:55.094] [WARN] normal - GET /login
+[2014-07-26 14:58:55.931] [WARN] console - http参数显示功能开启...
+[2014-07-26 14:58:55.932] [INFO] console - param  :  {}
+[2014-07-26 14:58:55.934] [INFO] console - get :  {}
+[2014-07-26 14:58:55.934] [INFO] console - post :  {}
+[2014-07-26 14:58:55.935] [INFO] userRoute - 进入登录页面...
+[2014-07-26 14:58:55.936] [INFO] console - 系统捕获异常...
+[2014-07-26 14:58:55.939] [ERROR] console - Error: ENOENT, no such file or directory 'C:\work\sherlockBlog\views\sign\common\header.html'
+    at Object.fs.openSync (fs.js:432:18)
+    at fs.readFileSync (fs.js:289:15)
+    at Object.exports.parse (C:\work\node_modules\ejs\lib\ejs.js:159:19)
+    at exports.compile (C:\work\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+    at Object.loginPage [as handle] (C:\work\sherlockBlog\routes\userRouter.js:13:9)
+[2014-07-26 14:58:55.941] [WARN] normal - GET /login
+[2014-07-26 14:58:56.193] [WARN] console - http参数显示功能开启...
+[2014-07-26 14:58:56.194] [INFO] console - param  :  {}
+[2014-07-26 14:58:56.195] [INFO] console - get :  {}
+[2014-07-26 14:58:56.195] [INFO] console - post :  {}
+[2014-07-26 14:58:56.196] [INFO] userRoute - 进入登录页面...
+[2014-07-26 14:58:56.198] [INFO] console - 系统捕获异常...
+[2014-07-26 14:58:56.202] [ERROR] console - Error: ENOENT, no such file or directory 'C:\work\sherlockBlog\views\sign\common\header.html'
+    at Object.fs.openSync (fs.js:432:18)
+    at fs.readFileSync (fs.js:289:15)
+    at Object.exports.parse (C:\work\node_modules\ejs\lib\ejs.js:159:19)
+    at exports.compile (C:\work\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+    at Object.loginPage [as handle] (C:\work\sherlockBlog\routes\userRouter.js:13:9)
+[2014-07-26 14:58:56.204] [WARN] normal - GET /login
+[2014-07-26 14:58:56.429] [WARN] console - http参数显示功能开启...
+[2014-07-26 14:58:56.430] [INFO] console - param  :  {}
+[2014-07-26 14:58:56.431] [INFO] console - get :  {}
+[2014-07-26 14:58:56.431] [INFO] console - post :  {}
+[2014-07-26 14:58:56.432] [INFO] userRoute - 进入登录页面...
+[2014-07-26 14:58:56.437] [INFO] console - 系统捕获异常...
+[2014-07-26 14:58:56.439] [ERROR] console - Error: ENOENT, no such file or directory 'C:\work\sherlockBlog\views\sign\common\header.html'
+    at Object.fs.openSync (fs.js:432:18)
+    at fs.readFileSync (fs.js:289:15)
+    at Object.exports.parse (C:\work\node_modules\ejs\lib\ejs.js:159:19)
+    at exports.compile (C:\work\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+    at Object.loginPage [as handle] (C:\work\sherlockBlog\routes\userRouter.js:13:9)
+[2014-07-26 14:58:56.441] [WARN] normal - GET /login
+[2014-07-26 14:59:00.191] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-07-26 14:59:00.201] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-07-26 14:59:04.027] [INFO] console - sherlock blog 启动 端口:4000
+[2014-07-26 14:59:08.961] [WARN] console - http参数显示功能开启...
+[2014-07-26 14:59:08.962] [INFO] console - param  :  {}
+[2014-07-26 14:59:08.964] [INFO] console - get :  {}
+[2014-07-26 14:59:08.964] [INFO] console - post :  {}
+[2014-07-26 14:59:08.965] [INFO] userRoute - 进入登录页面...
+[2014-07-26 14:59:08.971] [INFO] console - 系统捕获异常...
+[2014-07-26 14:59:08.981] [ERROR] console - Error: ENOENT, no such file or directory 'C:\work\sherlockBlog\views\common\common\meta.html'
+    at Object.fs.openSync (fs.js:432:18)
+    at fs.readFileSync (fs.js:289:15)
+    at Object.exports.parse (C:\work\node_modules\ejs\lib\ejs.js:159:19)
+    at Object.exports.parse (C:\work\node_modules\ejs\lib\ejs.js:160:27)
+    at exports.compile (C:\work\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+[2014-07-26 14:59:09.002] [INFO] normal - GET /login
+[2014-07-26 14:59:55.129] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-07-26 14:59:55.141] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-07-26 14:59:58.858] [INFO] console - sherlock blog 启动 端口:4000
+[2014-07-26 15:00:03.606] [WARN] console - http参数显示功能开启...
+[2014-07-26 15:00:03.607] [INFO] console - param  :  {}
+[2014-07-26 15:00:03.610] [INFO] console - get :  {}
+[2014-07-26 15:00:03.610] [INFO] console - post :  {}
+[2014-07-26 15:00:03.611] [INFO] userRoute - 进入登录页面...
+[2014-07-26 15:00:03.618] [INFO] console - 系统捕获异常...
+[2014-07-26 15:00:03.627] [ERROR] console - Error: ENOENT, no such file or directory 'C:\work\sherlockBlog\views\sign\views\common\header.html'
+    at Object.fs.openSync (fs.js:432:18)
+    at fs.readFileSync (fs.js:289:15)
+    at Object.exports.parse (C:\work\node_modules\ejs\lib\ejs.js:159:19)
+    at exports.compile (C:\work\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+    at Object.loginPage [as handle] (C:\work\sherlockBlog\routes\userRouter.js:13:9)
+[2014-07-26 15:00:03.647] [INFO] normal - GET /login
+[2014-07-26 15:08:39.006] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-07-26 15:08:39.011] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-07-26 15:08:42.782] [INFO] console - sherlock blog 启动 端口:4000
+[2014-07-26 15:08:51.228] [WARN] console - http参数显示功能开启...
+[2014-07-26 15:08:51.228] [INFO] console - param  :  {}
+[2014-07-26 15:08:51.231] [INFO] console - get :  {}
+[2014-07-26 15:08:51.231] [INFO] console - post :  {}
+[2014-07-26 15:08:51.232] [INFO] userRoute - 进入登录页面...
+[2014-07-26 15:08:51.236] [INFO] console - 系统捕获异常...
+[2014-07-26 15:08:51.244] [ERROR] console - Error: ENOENT, no such file or directory 'C:\work\sherlockBlog\views\sign\views\common\header.html'
+    at Object.fs.openSync (fs.js:432:18)
+    at fs.readFileSync (fs.js:289:15)
+    at Object.exports.parse (C:\work\node_modules\ejs\lib\ejs.js:159:19)
+    at exports.compile (C:\work\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+    at Object.loginPage [as handle] (C:\work\sherlockBlog\routes\userRouter.js:13:9)
+[2014-07-26 15:08:51.262] [WARN] normal - GET /login
+[2014-07-26 15:09:03.904] [WARN] console - http参数显示功能开启...
+[2014-07-26 15:09:03.905] [INFO] console - param  :  {}
+[2014-07-26 15:09:03.905] [INFO] console - get :  {}
+[2014-07-26 15:09:03.906] [INFO] console - post :  {}
+[2014-07-26 15:09:03.906] [INFO] userRoute - 进入登录页面...
+[2014-07-26 15:09:03.908] [INFO] console - 系统捕获异常...
+[2014-07-26 15:09:03.911] [ERROR] console - Error: ENOENT, no such file or directory 'C:\work\sherlockBlog\views\sign\common\header.html'
+    at Object.fs.openSync (fs.js:432:18)
+    at fs.readFileSync (fs.js:289:15)
+    at Object.exports.parse (C:\work\node_modules\ejs\lib\ejs.js:159:19)
+    at exports.compile (C:\work\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+    at Object.loginPage [as handle] (C:\work\sherlockBlog\routes\userRouter.js:13:9)
+[2014-07-26 15:09:03.916] [INFO] normal - GET /login
+[2014-07-26 15:09:10.635] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-07-26 15:09:10.644] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-07-26 15:09:14.249] [INFO] console - sherlock blog 启动 端口:4000
+[2014-07-26 15:09:17.069] [WARN] console - http参数显示功能开启...
+[2014-07-26 15:09:17.070] [INFO] console - param  :  {}
+[2014-07-26 15:09:17.073] [INFO] console - get :  {}
+[2014-07-26 15:09:17.073] [INFO] console - post :  {}
+[2014-07-26 15:09:17.074] [INFO] userRoute - 进入登录页面...
+[2014-07-26 15:09:17.079] [INFO] console - 系统捕获异常...
+[2014-07-26 15:09:17.087] [ERROR] console - Error: ENOENT, no such file or directory 'C:\work\sherlockBlog\views\sign\common\header.html'
+    at Object.fs.openSync (fs.js:432:18)
+    at fs.readFileSync (fs.js:289:15)
+    at Object.exports.parse (C:\work\node_modules\ejs\lib\ejs.js:159:19)
+    at exports.compile (C:\work\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+    at Object.loginPage [as handle] (C:\work\sherlockBlog\routes\userRouter.js:13:9)
+[2014-07-26 15:09:17.106] [WARN] normal - GET /login
+[2014-07-26 15:09:55.696] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-07-26 15:09:55.710] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-07-26 15:09:58.504] [INFO] console - sherlock blog 启动 端口:4000
+[2014-07-26 15:10:01.967] [WARN] console - http参数显示功能开启...
+[2014-07-26 15:10:01.968] [INFO] console - param  :  {}
+[2014-07-26 15:10:01.970] [INFO] console - get :  {}
+[2014-07-26 15:10:01.971] [INFO] console - post :  {}
+[2014-07-26 15:10:01.972] [INFO] userRoute - 进入登录页面...
+[2014-07-26 15:10:01.977] [INFO] console - 系统捕获异常...
+[2014-07-26 15:10:01.987] [ERROR] console - Error: ENOENT, no such file or directory 'C:\work\sherlockBlog\views\sign\common\header.html'
+    at Object.fs.openSync (fs.js:432:18)
+    at fs.readFileSync (fs.js:289:15)
+    at Object.exports.parse (C:\work\node_modules\ejs\lib\ejs.js:159:19)
+    at exports.compile (C:\work\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+    at Object.loginPage [as handle] (C:\work\sherlockBlog\routes\userRouter.js:13:9)
+[2014-07-26 15:10:02.015] [WARN] normal - GET /login
+[2014-07-26 15:10:59.581] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-07-26 15:10:59.590] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-07-26 15:11:03.223] [INFO] console - sherlock blog 启动 端口:4000
+[2014-07-26 15:11:06.742] [WARN] console - http参数显示功能开启...
+[2014-07-26 15:11:06.743] [INFO] console - param  :  {}
+[2014-07-26 15:11:06.746] [INFO] console - get :  {}
+[2014-07-26 15:11:06.747] [INFO] console - post :  {}
+[2014-07-26 15:11:06.748] [INFO] userRoute - 进入登录页面...
+[2014-07-26 15:11:06.755] [INFO] console - 系统捕获异常...
+[2014-07-26 15:11:06.766] [ERROR] console - ReferenceError: options is not defined
+    at resolveInclude (C:\work\node_modules\ejs\lib\ejs.js:333:21)
+    at Object.exports.parse (C:\work\node_modules\ejs\lib\ejs.js:158:20)
+    at exports.compile (C:\work\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+    at Object.loginPage [as handle] (C:\work\sherlockBlog\routes\userRouter.js:13:9)
+    at next_layer (C:\work\node_modules\express\lib\router\route.js:103:13)
+[2014-07-26 15:11:06.788] [INFO] normal - GET /login
+[2014-07-26 15:12:46.239] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-07-26 15:12:46.253] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-07-26 15:12:50.514] [INFO] console - sherlock blog 启动 端口:4000
+[2014-07-26 15:12:53.651] [WARN] console - http参数显示功能开启...
+[2014-07-26 15:12:53.651] [INFO] console - param  :  {}
+[2014-07-26 15:12:53.654] [INFO] console - get :  {}
+[2014-07-26 15:12:53.655] [INFO] console - post :  {}
+[2014-07-26 15:12:53.655] [INFO] userRoute - 进入登录页面...
+[2014-07-26 15:12:53.660] [INFO] console - C:\work\sherlockBlog\views\sign
+[2014-07-26 15:12:53.661] [INFO] console - 系统捕获异常...
+[2014-07-26 15:12:53.671] [ERROR] console - TypeError: path must be a string
+    at Object.fs.openSync (fs.js:432:18)
+    at fs.readFileSync (fs.js:289:15)
+    at Object.exports.parse (C:\work\node_modules\ejs\lib\ejs.js:159:19)
+    at exports.compile (C:\work\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+    at Object.loginPage [as handle] (C:\work\sherlockBlog\routes\userRouter.js:13:9)
+[2014-07-26 15:12:53.686] [WARN] normal - GET /login
+[2014-07-26 15:13:33.856] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-07-26 15:13:33.878] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-07-26 15:13:37.520] [INFO] console - sherlock blog 启动 端口:4000
+[2014-07-26 15:13:39.919] [WARN] console - http参数显示功能开启...
+[2014-07-26 15:13:39.920] [INFO] console - param  :  {}
+[2014-07-26 15:13:39.922] [INFO] console - get :  {}
+[2014-07-26 15:13:39.922] [INFO] console - post :  {}
+[2014-07-26 15:13:39.923] [INFO] userRoute - 进入登录页面...
+[2014-07-26 15:13:39.928] [INFO] console - C:\work\sherlockBlog\views\sign\login.html
+[2014-07-26 15:13:39.929] [INFO] console - 系统捕获异常...
+[2014-07-26 15:13:39.939] [ERROR] console - TypeError: path must be a string
+    at Object.fs.openSync (fs.js:432:18)
+    at fs.readFileSync (fs.js:289:15)
+    at Object.exports.parse (C:\work\node_modules\ejs\lib\ejs.js:159:19)
+    at exports.compile (C:\work\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+    at Object.loginPage [as handle] (C:\work\sherlockBlog\routes\userRouter.js:13:9)
+[2014-07-26 15:13:39.955] [WARN] normal - GET /login
+[2014-07-26 15:14:05.291] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-07-26 15:14:05.300] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-07-26 15:14:08.687] [INFO] console - sherlock blog 启动 端口:4000
+[2014-07-26 15:14:11.209] [WARN] console - http参数显示功能开启...
+[2014-07-26 15:14:11.210] [INFO] console - param  :  {}
+[2014-07-26 15:14:11.212] [INFO] console - get :  {}
+[2014-07-26 15:14:11.213] [INFO] console - post :  {}
+[2014-07-26 15:14:11.213] [INFO] userRoute - 进入登录页面...
+[2014-07-26 15:14:11.218] [INFO] console - 系统捕获异常...
+[2014-07-26 15:14:11.229] [ERROR] console - ReferenceError: options is not defined
+    at resolveInclude (C:\work\node_modules\ejs\lib\ejs.js:332:17)
+    at Object.exports.parse (C:\work\node_modules\ejs\lib\ejs.js:158:20)
+    at exports.compile (C:\work\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+    at Object.loginPage [as handle] (C:\work\sherlockBlog\routes\userRouter.js:13:9)
+    at next_layer (C:\work\node_modules\express\lib\router\route.js:103:13)
+[2014-07-26 15:14:11.245] [WARN] normal - GET /login
+[2014-07-26 15:18:19.621] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-07-26 15:18:19.633] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-07-26 15:18:23.301] [INFO] console - sherlock blog 启动 端口:4000
+[2014-07-26 15:18:27.576] [WARN] console - http参数显示功能开启...
+[2014-07-26 15:18:27.576] [INFO] console - param  :  {}
+[2014-07-26 15:18:27.579] [INFO] console - get :  {}
+[2014-07-26 15:18:27.579] [INFO] console - post :  {}
+[2014-07-26 15:18:27.580] [INFO] userRoute - 进入登录页面...
+[2014-07-26 15:18:27.586] [INFO] console - 系统捕获异常...
+[2014-07-26 15:18:27.592] [ERROR] console - Error: ENOENT, no such file or directory 'C:\work\sherlockBlog\views\sign\common\header.html'
+    at Object.fs.openSync (fs.js:432:18)
+    at fs.readFileSync (fs.js:289:15)
+    at Object.exports.parse (C:\work\sherlockBlog\node_modules\ejs\lib\ejs.js:159:19)
+    at exports.compile (C:\work\sherlockBlog\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\sherlockBlog\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\sherlockBlog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+    at Object.loginPage [as handle] (C:\work\sherlockBlog\routes\userRouter.js:13:9)
+[2014-07-26 15:18:27.607] [INFO] normal - GET /login
+[2014-07-26 15:18:46.473] [WARN] console - http参数显示功能开启...
+[2014-07-26 15:18:46.474] [INFO] console - param  :  {}
+[2014-07-26 15:18:46.475] [INFO] console - get :  {}
+[2014-07-26 15:18:46.475] [INFO] console - post :  {}
+[2014-07-26 15:18:46.476] [INFO] userRoute - 进入登录页面...
+[2014-07-26 15:18:46.479] [INFO] console - 系统捕获异常...
+[2014-07-26 15:18:46.481] [ERROR] console - Error: ENOENT, no such file or directory 'C:\work\sherlockBlog\views\common\common\meta.html'
+    at Object.fs.openSync (fs.js:432:18)
+    at fs.readFileSync (fs.js:289:15)
+    at Object.exports.parse (C:\work\sherlockBlog\node_modules\ejs\lib\ejs.js:159:19)
+    at Object.exports.parse (C:\work\sherlockBlog\node_modules\ejs\lib\ejs.js:160:27)
+    at exports.compile (C:\work\sherlockBlog\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\sherlockBlog\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\sherlockBlog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+[2014-07-26 15:18:46.484] [INFO] normal - GET /login
+[2014-07-26 16:33:35.260] [WARN] console - http参数显示功能开启...
+[2014-07-26 16:33:35.261] [INFO] console - param  :  {}
+[2014-07-26 16:33:35.261] [INFO] console - get :  {}
+[2014-07-26 16:33:35.262] [INFO] console - post :  {}
+[2014-07-26 16:33:35.262] [INFO] userRoute - 进入登录页面...
+[2014-07-26 16:33:35.270] [INFO] console - 系统捕获异常...
+[2014-07-26 16:33:35.273] [ERROR] console - Error: ENOENT, no such file or directory 'C:\work\sherlockBlog\views\common\common\meta.html'
+    at Object.fs.openSync (fs.js:432:18)
+    at fs.readFileSync (fs.js:289:15)
+    at Object.exports.parse (C:\work\sherlockBlog\node_modules\ejs\lib\ejs.js:159:19)
+    at Object.exports.parse (C:\work\sherlockBlog\node_modules\ejs\lib\ejs.js:160:27)
+    at exports.compile (C:\work\sherlockBlog\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (C:\work\sherlockBlog\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (C:\work\sherlockBlog\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (C:\work\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (C:\work\node_modules\express\lib\application.js:502:10)
+    at ServerResponse.res.render (C:\work\node_modules\express\lib\response.js:777:7)
+[2014-07-26 16:33:35.277] [WARN] normal - GET /login
+[2014-07-26 16:34:32.668] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-07-26 16:34:32.679] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-07-26 16:34:36.455] [INFO] console - sherlock blog 启动 端口:4000
+[2014-07-26 16:34:39.965] [WARN] console - http参数显示功能开启...
+[2014-07-26 16:34:39.966] [INFO] console - param  :  {}
+[2014-07-26 16:34:39.969] [INFO] console - get :  {}
+[2014-07-26 16:34:39.969] [INFO] console - post :  {}
+[2014-07-26 16:34:39.970] [INFO] userRoute - 进入登录页面...
+[2014-07-26 16:34:40.002] [INFO] normal - GET /login
+[2014-07-26 16:34:40.043] [WARN] console - http参数显示功能开启...
+[2014-07-26 16:34:40.044] [INFO] console - param  :  {}
+[2014-07-26 16:34:40.045] [INFO] console - get :  {}
+[2014-07-26 16:34:40.045] [INFO] console - post :  {}
+[2014-07-26 16:34:40.050] [ERROR] normal - GET /source/external/sea-modules/seajs/2.3.0/dist/sea-debug.js
+[2014-07-26 16:34:40.087] [INFO] normal - GET /source/external/bootstrap-3.2.0/dist/css/bootstrap.min.css
+[2014-07-26 16:34:40.089] [INFO] normal - GET /source/external/seajs_config.js
+[2014-07-26 16:34:40.105] [INFO] normal - GET /source/external/bootstrap-3.2.0/dist/js/bootstrap.min.js
