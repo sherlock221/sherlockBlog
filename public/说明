@@ -1,0 +1,9 @@
+sea-modules  存放 seajs、jquery 等文件，这也是模块的部署目录
+source       存放各模块的js css文件
+    －－custom   自定义模块
+    －－external 外部引入模块
+    －－service  业务模块
+
+node_modules   部署依赖工具
+Gruntfile.js   部署配置文件
+package.json   项目说明
