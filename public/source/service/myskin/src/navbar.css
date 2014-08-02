@@ -2,22 +2,6 @@
  * sherlock 自定义皮肤
  * Copyright 2011-2014 Twitter, Inc.
  * 完全按照bootstrap AO设计思想 来写皮肤
- * 全局
- */
-
-body {
-    /** 全站字体颜色 **/
-    color: #999999;
-    /** 全站背景颜色 **/
-    background-color: #e8e8e8;
-}
-
-
-
-/*!
- * sherlock 自定义皮肤
- * Copyright 2011-2014 Twitter, Inc.
- * 完全按照bootstrap AO设计思想 来写皮肤
  * 导航条部分
  */
 
@@ -30,6 +14,7 @@ body {
     /**导航条高度 **/
     min-height: 46px;
     height: 46px;
+    box-shadow:0 1px 2px #bdbdbd ;
 }
 
 /**  brand颜色 **/
@@ -48,7 +33,6 @@ body {
     bottom: 8px;
     margin-right: 30px;
 }
-
 
 
 /*设置navbar-text的文本颜色*/

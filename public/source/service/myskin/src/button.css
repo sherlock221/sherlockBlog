@@ -1,0 +1,41 @@
+/*!
+ * sherlock 自定义皮肤
+ * Copyright 2011-2014 Twitter, Inc.
+ * 完全按照bootstrap AO设计思想 来写皮肤
+ * 按钮
+ */
+
+
+/* 标准btn */
+.btn-default {
+    color: #009ddc;
+    background-color: transparent;
+    border : 2px solid #009ddc;
+}
+
+/* hover、focus、active变化时的颜色 */
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.btn-default.active,
+.open .dropdown-toggle.btn-default {
+    color: #009ddc;
+    background-color: transparent;
+    border-color: #009ddc;
+}
+
+
+/** 视觉加重btn  表示在一组button中 该按钮最主要的 **/
+.btn-primary{
+
+}
+
+/** 表示成功 正使用的btn  **/
+.btn-success{
+
+}
+
+/** 表示某种信息 btn **/
+.btn-info{
+
+}
