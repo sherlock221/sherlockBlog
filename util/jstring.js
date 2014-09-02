@@ -1,4 +1,4 @@
-var pinyin = require("pinyin");
+//var pinyin = require("pinyin");
 
 /**
  * 字符串工具类

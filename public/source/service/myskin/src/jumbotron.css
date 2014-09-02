@@ -1,0 +1,49 @@
+/*!
+ * sherlock 自定义皮肤
+ * Copyright 2011-2014 Twitter, Inc.
+ * 完全按照bootstrap AO设计思想 来写皮肤
+ * 巨幕
+ */
+
+
+.jumbotron {
+
+    /** 上下间距 **/
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+    color: inherit;
+    background-color: inherit;
+}
+.jumbotron h1,
+.jumbotron .h1 {
+    color: inherit;
+}
+
+.jumbotron img{
+
+}
+
+.jumbotron p {
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-weight: normal;
+}
+.jumbotron > hr {
+    border-top-color: #d5d5d5;
+}
+.container .jumbotron {
+    border-radius: 6px;
+}
+.jumbotron .container {
+    max-width: 100%;
+}
+
+/** <=768px 下面进行操作 **/
+@media screen and (min-width: 768px) {
+
+    .jumbotron{
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+}

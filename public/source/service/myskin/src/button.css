@@ -8,9 +8,7 @@
 
 /* 标准btn */
 .btn-default {
-    color: #009ddc;
-    background-color: transparent;
-    border : 2px solid #009ddc;
+
 }
 
 /* hover、focus、active变化时的颜色 */
@@ -19,16 +17,30 @@
 .btn-default:active,
 .btn-default.active,
 .open .dropdown-toggle.btn-default {
-    color: #009ddc;
-    background-color: transparent;
-    border-color: #009ddc;
+
 }
 
 
 /** 视觉加重btn  表示在一组button中 该按钮最主要的 **/
 .btn-primary{
-
+    color: #009ddc;
+    background-color: transparent;
+    border : 2px solid #009ddc;
 }
+
+
+/* hover、focus、active变化时的颜色 */
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active{
+    color: #ffffff;
+    background-color: #009ddc;
+    border-color: #009ddc;
+}
+
+
+
 
 /** 表示成功 正使用的btn  **/
 .btn-success{
@@ -37,5 +49,37 @@
 
 /** 表示某种信息 btn **/
 .btn-info{
+
+}
+
+
+/** btn 大小 **/
+
+/** 默认中尺寸 **/
+.btn{
+    padding: 2px 30px;
+    font-size: 14px;
+}
+
+/** 超级大 **/
+.btn-sg{
+
+}
+
+/** 大 **/
+.btn-lg{
+    padding: 2px 50px;
+    font-size: 18px;
+}
+
+
+/** 小尺寸 **/
+.btn-sm {
+    padding: 2px 10px;
+    font-size: 12px;
+}
+
+/** 超小尺寸 **/
+.btn-xs{
 
 }

@@ -15,15 +15,15 @@ module.exports = function(grunt) {
              * 测试合并js
              */
             myskin : {
-                src : ['source/custom/myskin/src/*.css'],
-                dest : 'source/custom/myskin/myskin.css'
+                src : ['source/service/myskin/src/*.css'],
+                dest : 'source/service/myskin/myskin.css'
             }
         },
 
         /**  监听文件夹并且执行任务 **/
         watch : {
             myskin : {
-                files : ['source/custom/myskin/src/*.css'],
+                files : ['source/service/myskin/src/*.css'],
                 tasks : ["concat:myskin"],
                 options : {
                     //默认 35729端口
@@ -62,7 +62,7 @@ module.exports = function(grunt) {
     //压缩js
     grunt.loadNpmTasks('grunt-contrib-uglify');
     //js检查
-    grunt.loadNpmTasks('grunt-contrib-jshint');
+//    grunt.loadNpmTasks('grunt-contrib-jshint');
     //压缩css
     grunt.loadNpmTasks('grunt-contrib-cssmin');
     //watch 监听
